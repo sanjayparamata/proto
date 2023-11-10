@@ -1,3 +1,2 @@
-# proto
-poto.html
-https://sanjayparamata.github.io/proto/
+# prot0
+https://sanjayparamata.github.io/proto/proto.html
